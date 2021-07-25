@@ -1,0 +1,16 @@
+C:\Users\imnot\RiderProjects\CovidAPI-Manipulation\CovidAPI-Manipulation\obj\Debug\net5.0\CovidAPI-Manipulation.csproj.AssemblyReference.cache
+C:\Users\imnot\RiderProjects\CovidAPI-Manipulation\CovidAPI-Manipulation\obj\Debug\net5.0\CovidAPI-Manipulation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\imnot\RiderProjects\CovidAPI-Manipulation\CovidAPI-Manipulation\obj\Debug\net5.0\CovidAPI-Manipulation.AssemblyInfoInputs.cache
+C:\Users\imnot\RiderProjects\CovidAPI-Manipulation\CovidAPI-Manipulation\obj\Debug\net5.0\CovidAPI-Manipulation.AssemblyInfo.cs
+C:\Users\imnot\RiderProjects\CovidAPI-Manipulation\CovidAPI-Manipulation\obj\Debug\net5.0\CovidAPI-Manipulation.csproj.CoreCompileInputs.cache
+C:\Users\imnot\RiderProjects\CovidAPI-Manipulation\CovidAPI-Manipulation\bin\Debug\net5.0\CovidAPI-Manipulation.exe
+C:\Users\imnot\RiderProjects\CovidAPI-Manipulation\CovidAPI-Manipulation\bin\Debug\net5.0\CovidAPI-Manipulation.deps.json
+C:\Users\imnot\RiderProjects\CovidAPI-Manipulation\CovidAPI-Manipulation\bin\Debug\net5.0\CovidAPI-Manipulation.runtimeconfig.json
+C:\Users\imnot\RiderProjects\CovidAPI-Manipulation\CovidAPI-Manipulation\bin\Debug\net5.0\CovidAPI-Manipulation.runtimeconfig.dev.json
+C:\Users\imnot\RiderProjects\CovidAPI-Manipulation\CovidAPI-Manipulation\bin\Debug\net5.0\CovidAPI-Manipulation.dll
+C:\Users\imnot\RiderProjects\CovidAPI-Manipulation\CovidAPI-Manipulation\bin\Debug\net5.0\ref\CovidAPI-Manipulation.dll
+C:\Users\imnot\RiderProjects\CovidAPI-Manipulation\CovidAPI-Manipulation\bin\Debug\net5.0\CovidAPI-Manipulation.pdb
+C:\Users\imnot\RiderProjects\CovidAPI-Manipulation\CovidAPI-Manipulation\obj\Debug\net5.0\CovidAPI-Manipulation.dll
+C:\Users\imnot\RiderProjects\CovidAPI-Manipulation\CovidAPI-Manipulation\obj\Debug\net5.0\ref\CovidAPI-Manipulation.dll
+C:\Users\imnot\RiderProjects\CovidAPI-Manipulation\CovidAPI-Manipulation\obj\Debug\net5.0\CovidAPI-Manipulation.pdb
+C:\Users\imnot\RiderProjects\CovidAPI-Manipulation\CovidAPI-Manipulation\obj\Debug\net5.0\CovidAPI-Manipulation.genruntimeconfig.cache
